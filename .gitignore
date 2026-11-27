@@ -15,3 +15,4 @@ tests/fixtures/nepal_data/
 # Fetchable reference data -- 50 MB of SRTM tiles and a GeoNames dump.
 # Recreate with: python tools/fetch_reference.py
 data/
+.claude/worktrees/
